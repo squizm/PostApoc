@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1fb24d10-0af5-41e1-bc67-74ddc71807cd",
+            "Value": {
+                "id": "b7f14889-f4eb-4e9e-ba8b-7bd4d614f2ec",
+                "resourcePath": "scripts\\findFreeTile\\findFreeTile.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "25d64529-5278-49f8-9eaf-043771207e19",
             "Value": {
                 "id": "f37e53f7-273b-486e-abce-5950fc98bb0a",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "c0c27dda-8f91-4f0e-b981-5193bd8d2b08",
+            "Value": {
+                "id": "9b2ffd1a-964c-446b-9375-dfc6decbd760",
+                "resourcePath": "objects\\objGameManager\\objGameManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "90b3d121-591f-496b-878b-de3ba8b4375a",
@@ -264,7 +280,7 @@
         }
     ],
     "script_order": [
-        
+        "1fb24d10-0af5-41e1-bc67-74ddc71807cd"
     ],
     "tutorial": ""
 }
