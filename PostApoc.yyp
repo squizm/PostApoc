@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "1fb24d10-0af5-41e1-bc67-74ddc71807cd",
-            "Value": {
-                "id": "b7f14889-f4eb-4e9e-ba8b-7bd4d614f2ec",
-                "resourcePath": "scripts\\findFreeTile\\findFreeTile.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "25d64529-5278-49f8-9eaf-043771207e19",
             "Value": {
                 "id": "f37e53f7-273b-486e-abce-5950fc98bb0a",
@@ -223,6 +215,14 @@
             }
         },
         {
+            "Key": "c903e1de-623d-48fa-8a5e-110ed93653aa",
+            "Value": {
+                "id": "ddc10dc7-125e-4c94-94bb-bd36e2a96f43",
+                "resourcePath": "scripts\\getTileAt\\getTileAt.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "90b3d121-591f-496b-878b-de3ba8b4375a",
@@ -280,7 +280,7 @@
         }
     ],
     "script_order": [
-        "1fb24d10-0af5-41e1-bc67-74ddc71807cd"
+        "c903e1de-623d-48fa-8a5e-110ed93653aa"
     ],
     "tutorial": ""
 }
